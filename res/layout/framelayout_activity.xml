@@ -7,7 +7,7 @@
         android:id="@+id/imageView1"
         android:layout_width="wrap_content"
         android:layout_height="192dp"
-        android:src="@drawable/fraPQ" />
+        android:src="@drawable/mimorin" />
 
     <DigitalClock
         android:id="@+id/digitalClock1"
